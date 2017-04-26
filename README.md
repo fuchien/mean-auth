@@ -4,6 +4,8 @@ This project was generated with [angular-cli](https://github.com/angular/angular
 
 ## MEANauthapp
 
+You can see -----> [DEMO](https://chienauth.herokuapp.com/) <-----
+
 Complete MEAN stack application with authentication using json web tokens
 
 ### Installation
